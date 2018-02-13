@@ -2,166 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Curtis Malainey</title>
-    <link>http://test.malainey.com:1313/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Curtis Malainey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://test.malainey.com:1313/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Antplus-Arduino</title>
-      <link>http://test.malainey.com:1313/project/antplus-arduino/</link>
+      <link>/project/antplus-arduino/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/antplus-arduino/</guid>
+      <guid>/project/antplus-arduino/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Google Play Stream Spec</title>
-      <link>http://test.malainey.com:1313/project/google-play-stream-spec/</link>
+      <link>/project/google-play-stream-spec/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/google-play-stream-spec/</guid>
+      <guid>/project/google-play-stream-spec/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>MapsUp</title>
-      <link>http://test.malainey.com:1313/project/mapsup/</link>
+      <link>/project/mapsup/</link>
       <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/mapsup/</guid>
+      <guid>/project/mapsup/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Framr</title>
-      <link>http://test.malainey.com:1313/project/framr/</link>
+      <link>/project/framr/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/framr/</guid>
+      <guid>/project/framr/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Ant-Arduino</title>
-      <link>http://test.malainey.com:1313/project/ant-arduino/</link>
+      <link>/project/ant-arduino/</link>
       <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/ant-arduino/</guid>
+      <guid>/project/ant-arduino/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Neo-Desktop</title>
-      <link>http://test.malainey.com:1313/project/neo-desktop/</link>
+      <link>/project/neo-desktop/</link>
       <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/neo-desktop/</guid>
+      <guid>/project/neo-desktop/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Spectrum Glow</title>
-      <link>http://test.malainey.com:1313/project/spectrum-glow/</link>
+      <link>/project/spectrum-glow/</link>
       <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/spectrum-glow/</guid>
+      <guid>/project/spectrum-glow/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Smiley-Pack</title>
-      <link>http://test.malainey.com:1313/project/smiley-pack/</link>
+      <link>/project/smiley-pack/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/smiley-pack/</guid>
+      <guid>/project/smiley-pack/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Matrix Toolkit</title>
-      <link>http://test.malainey.com:1313/project/matrixtoolkit/</link>
+      <link>/project/matrixtoolkit/</link>
       <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/matrixtoolkit/</guid>
+      <guid>/project/matrixtoolkit/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Raspberry Pi LED Cube</title>
-      <link>http://test.malainey.com:1313/project/raspberry-pi-led-cube/</link>
+      <link>/project/raspberry-pi-led-cube/</link>
       <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/raspberry-pi-led-cube/</guid>
+      <guid>/project/raspberry-pi-led-cube/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Neopixel-Flow</title>
-      <link>http://test.malainey.com:1313/project/neopixel-flow/</link>
+      <link>/project/neopixel-flow/</link>
       <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/neopixel-flow/</guid>
+      <guid>/project/neopixel-flow/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Arduino Sudoku</title>
-      <link>http://test.malainey.com:1313/project/arduino-sudoku/</link>
+      <link>/project/arduino-sudoku/</link>
       <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/arduino-sudoku/</guid>
+      <guid>/project/arduino-sudoku/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Flashy-Pack</title>
-      <link>http://test.malainey.com:1313/project/flashy-pack/</link>
+      <link>/project/flashy-pack/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/flashy-pack/</guid>
+      <guid>/project/flashy-pack/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Chatlab</title>
-      <link>http://test.malainey.com:1313/project/chatlab/</link>
+      <link>/project/chatlab/</link>
       <pubDate>Sat, 08 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/chatlab/</guid>
+      <guid>/project/chatlab/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Mass Tach</title>
-      <link>http://test.malainey.com:1313/project/mass-tach/</link>
+      <link>/project/mass-tach/</link>
       <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/mass-tach/</guid>
+      <guid>/project/mass-tach/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Pardio</title>
-      <link>http://test.malainey.com:1313/project/pardio/</link>
+      <link>/project/pardio/</link>
       <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/pardio/</guid>
+      <guid>/project/pardio/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Snake</title>
-      <link>http://test.malainey.com:1313/project/snake/</link>
+      <link>/project/snake/</link>
       <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://test.malainey.com:1313/project/snake/</guid>
+      <guid>/project/snake/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     

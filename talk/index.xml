@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Curtis Malainey</title>
-    <link>http://test.malainey.com:1313/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Curtis Malainey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://test.malainey.com:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advanced Git</title>
-      <link>http://test.malainey.com:1313/talk/advanced-git-hacked/</link>
+      <link>/talk/advanced-git-hacked/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://test.malainey.com:1313/talk/advanced-git-hacked/</guid>
+      <guid>/talk/advanced-git-hacked/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Intro to Beginner and Advanced Git</title>
-      <link>http://test.malainey.com:1313/talk/intro-to-git-hacked-beta/</link>
+      <link>/talk/intro-to-git-hacked-beta/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://test.malainey.com:1313/talk/intro-to-git-hacked-beta/</guid>
+      <guid>/talk/intro-to-git-hacked-beta/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>MapsUp @ Democamp</title>
-      <link>http://test.malainey.com:1313/talk/mapsup-democamp/</link>
+      <link>/talk/mapsup-democamp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://test.malainey.com:1313/talk/mapsup-democamp/</guid>
+      <guid>/talk/mapsup-democamp/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Using Sports Tech in Embedded Projects</title>
-      <link>http://test.malainey.com:1313/talk/using-sports-tech-in-projects/</link>
+      <link>/talk/using-sports-tech-in-projects/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://test.malainey.com:1313/talk/using-sports-tech-in-projects/</guid>
+      <guid>/talk/using-sports-tech-in-projects/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
