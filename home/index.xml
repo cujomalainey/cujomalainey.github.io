@@ -2,13 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Curtis Malainey</title>
-    <link>/home/</link>
+    <link>//localhost:1313/home/</link>
     <description>Recent content in Homes on Curtis Malainey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="//localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/home/about/</guid>
+      <description>Biography Curtis Malainey is a Software Engineer at Google. His interests include The Internet Of Things, embedded computing and wireless communication. He leads the U of A&amp;rsquo;s Computer Engineering Clubs Hackathon Committee, which runs the HackED and HackED Beta hackathons. He also is the Co-VP External for the Computer Engineering Club which represents of the all the Computer Engineering students.
+When he is not programming on his side projects, he enjoys rock climbing, volunteering and playing lots of sports.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>//localhost:1313/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libraries</title>
+      <link>//localhost:1313/home/libraries/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      
+      <guid>//localhost:1313/home/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
