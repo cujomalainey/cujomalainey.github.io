@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/project/antplus-arduino/</loc>
+      <loc>http://test.malainey.com:1313/project/antplus-arduino/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/talk/intro-to-git-hacked-beta/</loc>
+      <loc>http://test.malainey.com:1313/talk/advanced-git-hacked/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>/talk/mapsup-democamp/</loc>
+      <loc>http://test.malainey.com:1313/talk/intro-to-git-hacked-beta/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>http://test.malainey.com:1313/talk/mapsup-democamp/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -41,7 +41,25 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>http://test.malainey.com:1313/post/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://test.malainey.com:1313/talk/using-sports-tech-in-projects/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://test.malainey.com:1313/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +68,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>http://test.malainey.com:1313/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +77,7 @@
     
     <url>
     
-      <loc>/project/google-play-stream-spec/</loc>
+      <loc>http://test.malainey.com:1313/project/google-play-stream-spec/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +86,7 @@
     
     <url>
     
-      <loc>/project/mapsup/</loc>
+      <loc>http://test.malainey.com:1313/project/mapsup/</loc>
       <lastmod>2016-10-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +95,7 @@
     
     <url>
     
-      <loc>/project/framr/</loc>
+      <loc>http://test.malainey.com:1313/project/framr/</loc>
       <lastmod>2016-10-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +104,7 @@
     
     <url>
     
-      <loc>/project/ant-arduino/</loc>
+      <loc>http://test.malainey.com:1313/project/ant-arduino/</loc>
       <lastmod>2016-06-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +113,7 @@
     
     <url>
     
-      <loc>/project/neo-desktop/</loc>
+      <loc>http://test.malainey.com:1313/project/neo-desktop/</loc>
       <lastmod>2016-06-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +122,7 @@
     
     <url>
     
-      <loc>/project/spectrum-glow/</loc>
+      <loc>http://test.malainey.com:1313/project/spectrum-glow/</loc>
       <lastmod>2016-06-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +131,7 @@
     
     <url>
     
-      <loc>/project/smiley-pack/</loc>
+      <loc>http://test.malainey.com:1313/project/smiley-pack/</loc>
       <lastmod>2016-05-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +140,7 @@
     
     <url>
     
-      <loc>/project/matrixtoolkit/</loc>
+      <loc>http://test.malainey.com:1313/project/matrixtoolkit/</loc>
       <lastmod>2016-04-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +149,7 @@
     
     <url>
     
-      <loc>/project/raspberry-pi-led-cube/</loc>
+      <loc>http://test.malainey.com:1313/project/raspberry-pi-led-cube/</loc>
       <lastmod>2015-02-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -140,7 +158,7 @@
     
     <url>
     
-      <loc>/project/neopixel-flow/</loc>
+      <loc>http://test.malainey.com:1313/project/neopixel-flow/</loc>
       <lastmod>2015-01-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,7 +167,7 @@
     
     <url>
     
-      <loc>/project/arduino-sudoku/</loc>
+      <loc>http://test.malainey.com:1313/project/arduino-sudoku/</loc>
       <lastmod>2014-12-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +176,7 @@
     
     <url>
     
-      <loc>/project/flashy-pack/</loc>
+      <loc>http://test.malainey.com:1313/project/flashy-pack/</loc>
       <lastmod>2014-11-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -167,7 +185,7 @@
     
     <url>
     
-      <loc>/project/chatlab/</loc>
+      <loc>http://test.malainey.com:1313/project/chatlab/</loc>
       <lastmod>2014-03-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -176,7 +194,7 @@
     
     <url>
     
-      <loc>/project/mass-tach/</loc>
+      <loc>http://test.malainey.com:1313/project/mass-tach/</loc>
       <lastmod>2014-02-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -185,7 +203,7 @@
     
     <url>
     
-      <loc>/project/pardio/</loc>
+      <loc>http://test.malainey.com:1313/project/pardio/</loc>
       <lastmod>2013-12-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -194,7 +212,7 @@
     
     <url>
     
-      <loc>/project/snake/</loc>
+      <loc>http://test.malainey.com:1313/project/snake/</loc>
       <lastmod>2008-06-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,7 +221,7 @@
     
     <url>
     
-      <loc>/tags/adafruit/</loc>
+      <loc>http://test.malainey.com:1313/tags/adafruit/</loc>
       <lastmod>2016-04-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -213,7 +231,7 @@
     
     <url>
     
-      <loc>/tags/android/</loc>
+      <loc>http://test.malainey.com:1313/tags/android/</loc>
       <lastmod>2016-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -223,7 +241,7 @@
     
     <url>
     
-      <loc>/tags/ant/</loc>
+      <loc>http://test.malainey.com:1313/tags/ant/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -233,7 +251,7 @@
     
     <url>
     
-      <loc>/tags/ant&#43;/</loc>
+      <loc>http://test.malainey.com:1313/tags/ant&#43;/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -243,7 +261,7 @@
     
     <url>
     
-      <loc>/tags/arduino/</loc>
+      <loc>http://test.malainey.com:1313/tags/arduino/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -253,7 +271,7 @@
     
     <url>
     
-      <loc>/tags/ble/</loc>
+      <loc>http://test.malainey.com:1313/tags/ble/</loc>
       <lastmod>2016-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -263,7 +281,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>http://test.malainey.com:1313/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -272,7 +290,7 @@
     
     <url>
     
-      <loc>/tags/communication/</loc>
+      <loc>http://test.malainey.com:1313/tags/communication/</loc>
       <lastmod>2016-10-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -282,7 +300,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>http://test.malainey.com:1313/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -292,7 +310,7 @@
     
     <url>
     
-      <loc>/tags/embedded/</loc>
+      <loc>http://test.malainey.com:1313/tags/embedded/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -302,7 +320,7 @@
     
     <url>
     
-      <loc>/tags/encryption/</loc>
+      <loc>http://test.malainey.com:1313/tags/encryption/</loc>
       <lastmod>2014-03-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -312,7 +330,7 @@
     
     <url>
     
-      <loc>/tags/game/</loc>
+      <loc>http://test.malainey.com:1313/tags/game/</loc>
       <lastmod>2008-06-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -322,7 +340,7 @@
     
     <url>
     
-      <loc>/tags/google-maps/</loc>
+      <loc>http://test.malainey.com:1313/tags/google-maps/</loc>
       <lastmod>2016-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -332,7 +350,7 @@
     
     <url>
     
-      <loc>/tags/google-play/</loc>
+      <loc>http://test.malainey.com:1313/tags/google-play/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -342,7 +360,7 @@
     
     <url>
     
-      <loc>/tags/led/</loc>
+      <loc>http://test.malainey.com:1313/tags/led/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -352,7 +370,7 @@
     
     <url>
     
-      <loc>/tags/libbass/</loc>
+      <loc>http://test.malainey.com:1313/tags/libbass/</loc>
       <lastmod>2016-06-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -362,7 +380,7 @@
     
     <url>
     
-      <loc>/tags/library/</loc>
+      <loc>http://test.malainey.com:1313/tags/library/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -372,7 +390,7 @@
     
     <url>
     
-      <loc>/tags/matlab/</loc>
+      <loc>http://test.malainey.com:1313/tags/matlab/</loc>
       <lastmod>2014-03-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -382,7 +400,7 @@
     
     <url>
     
-      <loc>/tags/matrix/</loc>
+      <loc>http://test.malainey.com:1313/tags/matrix/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -392,7 +410,7 @@
     
     <url>
     
-      <loc>/tags/music/</loc>
+      <loc>http://test.malainey.com:1313/tags/music/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -402,7 +420,7 @@
     
     <url>
     
-      <loc>/tags/pillow/</loc>
+      <loc>http://test.malainey.com:1313/tags/pillow/</loc>
       <lastmod>2016-06-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -412,7 +430,7 @@
     
     <url>
     
-      <loc>/project_types/</loc>
+      <loc>http://test.malainey.com:1313/project_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -421,7 +439,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>http://test.malainey.com:1313/project/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -431,7 +449,7 @@
     
     <url>
     
-      <loc>/tags/python/</loc>
+      <loc>http://test.malainey.com:1313/tags/python/</loc>
       <lastmod>2016-06-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -441,7 +459,7 @@
     
     <url>
     
-      <loc>/tags/raspberry-pi/</loc>
+      <loc>http://test.malainey.com:1313/tags/raspberry-pi/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -451,7 +469,7 @@
     
     <url>
     
-      <loc>/tags/rdio/</loc>
+      <loc>http://test.malainey.com:1313/tags/rdio/</loc>
       <lastmod>2013-12-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -461,7 +479,7 @@
     
     <url>
     
-      <loc>/tags/snake/</loc>
+      <loc>http://test.malainey.com:1313/tags/snake/</loc>
       <lastmod>2008-06-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -471,7 +489,7 @@
     
     <url>
     
-      <loc>/tags/sonar/</loc>
+      <loc>http://test.malainey.com:1313/tags/sonar/</loc>
       <lastmod>2016-05-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -481,7 +499,7 @@
     
     <url>
     
-      <loc>/tags/spectrum/</loc>
+      <loc>http://test.malainey.com:1313/tags/spectrum/</loc>
       <lastmod>2016-12-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -491,7 +509,7 @@
     
     <url>
     
-      <loc>/tags/sports-tech/</loc>
+      <loc>http://test.malainey.com:1313/tags/sports-tech/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -501,7 +519,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>http://test.malainey.com:1313/tags/</loc>
       <lastmod>2016-04-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -511,7 +529,7 @@
     
     <url>
     
-      <loc>/tags/webservice/</loc>
+      <loc>http://test.malainey.com:1313/tags/webservice/</loc>
       <lastmod>2013-12-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -521,7 +539,7 @@
     
     <url>
     
-      <loc>/tags/wireless/</loc>
+      <loc>http://test.malainey.com:1313/tags/wireless/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -531,7 +549,7 @@
     
     <url>
     
-      <loc>/tags/xbee/</loc>
+      <loc>http://test.malainey.com:1313/tags/xbee/</loc>
       <lastmod>2014-02-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
